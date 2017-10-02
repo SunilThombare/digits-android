@@ -4,10 +4,10 @@ Using Digits from source in production applications is not officially supported 
 Please utilize the available binaries.
 
 ## Download
+## Update 9.30.2017:
+The Digits SDK and Digits.com was retired on September 30, 2017. Learn more on the Digits blog.
 
-## Update 5.17.2017: 
-
-Firebase phone authentication is the next evolution of Digits. You can now let your users sign in with their phone numbers, in addition to traditional email/password or identity providers like Google or Facebook. This gives you a comprehensive authentication solution no matter who your users are or how they like to log in. Learn more about [Firebase phone authentication](https://firebase.google.com/docs/auth/).
+Firebase phone authentication is the next evolution of Digits. You can now let your users sign in with their phone numbers, in addition to traditional email/password or identity providers like Google or Facebook. This gives you a comprehensive authentication solution no matter who your users are or how they like to log in. Learn more about Firebase phone authentication.
 
 ## If you currently use Digits: 
 
